@@ -4,6 +4,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=creatorarno" alt="creatorarno" /></a> </p>
 
+###
+
+<img align="right" height="150" src="https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Sakura_Nene_CPP.jpg"  />
+
+###
+
+
 - 🔭 I’m currently working on **a WEB3 mobile game**
 
 - 🌱 I’m currently learning **DSA with C++**
@@ -25,8 +32,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=creatorarno&" alt="creatorarno" /></p>
 
 
-###
-
-<img align="right" height="150" src="https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Sakura_Nene_CPP.jpg"  />
-
-###
