@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Ahmad Khan and I'm a Game Developer, from Delhi</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://www.pngfind.com/pngs/m/169-1698920_anime-girls-holding-programming-books-hd-png-download.png"  />
 
 ###
 
