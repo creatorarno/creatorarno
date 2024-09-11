@@ -11,7 +11,7 @@
 ###
 
 
-- 🔭 I’m currently working on **a WEB3 mobile game**
+- 🔭 I’m currently working on **a Space shooter Game**
 
 - 🌱 I’m currently learning **DSA with C++**
 
