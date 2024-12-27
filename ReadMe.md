@@ -11,7 +11,7 @@
 ###
 
 
-- 🔭 I’m currently working on **a Cinematic Experience**
+- 🔭 I’m currently working on **a MedTech Startup**
 
 - 🌱 I’m currently learning **DSA with C++**
 
