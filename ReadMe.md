@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 I'm currently building on a stealth project<br>🤝 I’m looking for help with ML<br>🌱 I’m currently learning French<br>⚡ Fun fact: I love cats, football, and exploring the Levantine culture through its delicious food.<br><br>
+💼 I'm currently building a stealth project<br>🤝 I’m looking for help with ML<br>🌱 I’m currently learning French<br>⚡ Fun fact: I love cats, football, and exploring the Levantine culture through its delicious food.<br><br>
 
 
 ## 🌐 Socials:
